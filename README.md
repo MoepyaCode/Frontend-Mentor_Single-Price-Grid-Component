@@ -1,4 +1,4 @@
-# Title
+# Single price grid component
 
 <!-- add description of project -->
 
